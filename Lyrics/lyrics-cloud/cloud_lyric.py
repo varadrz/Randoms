@@ -9,7 +9,7 @@ def type_lyric(line, char_delay=0.065):
 
 def get_lyrics_from_cloud():
     # GitHub URL
-    url = "https://raw.githubusercontent.com/varadrz/Random/lyrics-cloud/arz_kiya_hai.txt"
+    url = "https://raw.githubusercontent.com/varadrz/Randoms/main/Lyrics/lyrics-cloud/arz_kiya_hai.txt"
     response = requests.get(url)
 
     # File Fetchingg
