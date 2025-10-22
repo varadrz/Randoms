@@ -19,7 +19,7 @@ A stylish logout button with a dynamic stickman animation that interacts with a 
 Insert gif or link to demo
 
 <video width="600" controls>
-  <source src="https://github.com/varadrz/Randoms/raw/main/logouts/demo.mp4" type="video/mp4">
+  <source src="/logouts/demo.mp4">
   Your browser does not support the video tag.
 </video>
 ## Usage/Examples
