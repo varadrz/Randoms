@@ -16,12 +16,9 @@ A stylish logout button with a dynamic stickman animation that interacts with a 
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/user-attachments/assets/66e22adc-f3ae-40ed-bdb2-724075434099
 
-<video width="600" controls>
-  <source src="/logouts/demo.mp4">
-  Your browser does not support the video tag.
-</video>
+
 ## Usage/Examples
 
 ```html
